@@ -1,0 +1,8 @@
+****
+[WARNING]
+Detected OS X El Capitan 10.11. As this is quite new, there may be issues still. Your mileage may vary.
+****
+Get packager.tgz
+Unpack packager.tgz
+Please type in your password, as we want to install this into /usr/local
+Start packager (may take some time)
